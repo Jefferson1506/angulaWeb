@@ -1,0 +1,9 @@
+Ä
+wC:\Users\david\OneDrive\Documentos\GitHub\PulsacionesAngular\pulsacionesdotnet\Controllers\WeatherForecastController.csutf-8m
+dC:\Users\david\OneDrive\Documentos\GitHub\PulsacionesAngular\pulsacionesdotnet\Pages\Error.cshtml.csutf-8b
+YC:\Users\david\OneDrive\Documentos\GitHub\PulsacionesAngular\pulsacionesdotnet\Program.csutf-8b
+YC:\Users\david\OneDrive\Documentos\GitHub\PulsacionesAngular\pulsacionesdotnet\Startup.csutf-8j
+aC:\Users\david\OneDrive\Documentos\GitHub\PulsacionesAngular\pulsacionesdotnet\WeatherForecast.csutf-8ö
+éC:\Users\david\OneDrive\Documentos\GitHub\PulsacionesAngular\pulsacionesdotnet\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8ç
+ÅC:\Users\david\OneDrive\Documentos\GitHub\PulsacionesAngular\pulsacionesdotnet\obj\Debug\net5.0\pulsacionesdotnet.AssemblyInfo.csutf-8í
+ÜC:\Users\david\OneDrive\Documentos\GitHub\PulsacionesAngular\pulsacionesdotnet\obj\Debug\net5.0\pulsacionesdotnet.RazorAssemblyInfo.csutf-8
